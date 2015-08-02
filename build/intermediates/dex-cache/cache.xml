@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/satish/Documents/summer/ChatNow/app/src/main/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/home/satish/Documents/summer/ChatNow/app/build/intermediates/pre-dexed/debug/Parse-1.9.4-cd5a6eebfcf3323b73cae651b4f3847037bf3334.jar" />
+    </item>
+    <item
+        jar="/home/satish/Documents/summer/ChatNow/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/satish/Documents/summer/ChatNow/app/build/intermediates/pre-dexed/debug/classes-9143e96f874a8ef8dd98b79e647e9e4507383ef9.jar" />
+    </item>
+    <item
+        jar="/home/satish/Documents/summer/ChatNow/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/satish/Documents/summer/ChatNow/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-325538275243667ec6301da1c78dc4e7d18bad9c.jar" />
+    </item>
+    <item
+        jar="/home/satish/Documents/summer/ChatNow/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/satish/Documents/summer/ChatNow/app/build/intermediates/pre-dexed/debug/classes-127223880a3b609a754ca7b68c73b417f4ab1fae.jar" />
+    </item>
+    <item
+        jar="/home/satish/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/satish/Documents/summer/ChatNow/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-c72c8065d16d52160128505648488b548174439f.jar" />
+    </item>
+    <item
+        jar="/home/satish/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/satish/Documents/summer/ChatNow/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7a1a527deb1b019c567eeca147a969188a6b6533.jar" />
+    </item>
+
+</items>
